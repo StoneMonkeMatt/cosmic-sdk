@@ -1,2 +1,0 @@
-# cosmic-sdk
-Realty Simulator 
